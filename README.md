@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Archived.** This was an experimental vibe-coded project and is no longer maintained.
+
 <p align="center">
   <img src="https://github.com/akstspace/acton-agent/raw/main/images/acton-icon.jpg" alt="Acton Agent" width="200"/>
 </p>
